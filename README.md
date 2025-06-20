@@ -1,4 +1,4 @@
-![azurec](https://github.com/user-attachments/assets/8772ea05-548f-4848-8d7f-40003d505cb7)
+![azurevmscc](https://github.com/user-attachments/assets/efd6cd24-9f5a-42f7-a5e5-0dd6d30fed20)
 
 <h1>Creating Resources (Windows & Linux Virtual Machines) in Azure</h1>
 This section outlines the process of Getting Established in Azure, Creating and Using Resources.<br />
