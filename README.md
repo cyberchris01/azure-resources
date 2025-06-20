@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://imgur.com/wYucC7L.png" alt="osTicket logo"/>
-</p>
+![azurec](https://github.com/user-attachments/assets/8772ea05-548f-4848-8d7f-40003d505cb7)
 
 <h1>Creating Resources (Windows & Linux Virtual Machines) in Azure</h1>
 This section outlines the process of Getting Established in Azure, Creating and Using Resources.<br />
