@@ -7,7 +7,7 @@ This section outlines the process of Getting Established in Azure, Creating and 
 
 <h2>Environments and Technologies Used</h2>
 
-- MacBook Pro
+- MacBook
 - Microsoft Azure Resource Group
 - Microsoft Azure Storage Container
 
