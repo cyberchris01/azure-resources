@@ -2,7 +2,7 @@
 <img src="https://imgur.com/wYucC7L.png" alt="osTicket logo"/>
 </p>
 
-<h1>Microsoft Azure Introduction 🪟 - Creating and Using a Resource</h1>
+<h1>Creating Resources in Azure</h1>
 This section outlines the process of Getting Established in Azure, Creating and Using Resources.<br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
